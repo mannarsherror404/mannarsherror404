@@ -1,4 +1,4 @@
-<img src="Lekton.jpg" alt="GitHub Banner" width="100%" />
+<img src="Lekton (1).jpg" alt="GitHub Banner" width="100%" />
 <h1>Hi 👋, I'm Mannarsh</h1>
 <p>🚀 Passionate about AI & ML, turning data into intelligent solutions one line of code at a time!</p>
 
