@@ -1,5 +1,5 @@
 <img src="Lekton (1).jpg" alt="GitHub Banner" width="100%" />
-<h1>Hi 👋, I'm Mannarsh</h1>
+<h1>Hii 👋, I'm Mannarsh</h1>
 <p>🚀 Passionate about AI & ML, turning data into intelligent solutions one line of code at a time!</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
